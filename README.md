@@ -1,5 +1,5 @@
 # Discord-Crash
-Crash all Discord clients (desktop, mobile, browser, third party clients)
+Crash all Discord clients (desktop, mobile, browser, third party clients) when user clicks your profile
 <h2>Submitting the PUT request</h2>
 <p>
   ∙ Navigate to Discord in the browser to find your authorization token
