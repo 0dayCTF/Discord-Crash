@@ -1,5 +1,5 @@
 # Discord-Crash
-Crash all Discord clients (desktop, mobile, browser, third party clients) when user clicks your profile
+Crash all Discord clients (desktop, mobile, browser, third party clients,) when user clicks your profile
 <h2>Submitting the PUT request</h2>
 <p>
   ∙ Navigate to Discord in the browser to find your authorization token
@@ -21,7 +21,7 @@ Crash all Discord clients (desktop, mobile, browser, third party clients) when u
 ∙ Using your program of choice, submit the DELETE request in <b>DiscordFix.txt</b>
 </p>
 <br>
-<center>&nbsp; Thank you, Ryan Montgomery</center>
+<center>&nbsp; This method does not work on certain Android devices</center>
 <br>
 <br>
 <i>I will be adding some more methods in the future, check back for an update</i>
