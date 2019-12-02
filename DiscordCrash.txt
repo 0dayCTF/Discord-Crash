@@ -1,0 +1,19 @@
+curl -X PUT \
+  https://canary.discordapp.com/api/v6/users/@me/connections/contacts/RANDOMINTEGERS \
+  -H 'Accept: */*' \
+  -H 'Accept-Encoding: gzip, deflate' \
+  -H 'Cache-Control: no-cache' \
+  -H 'Connection: keep-alive' \
+  -H 'Content-Length: 54' \
+  -H 'Content-Type: application/json' \
+  -H 'Cookie: __cfduid=df88df3d7a06dc34b3645f520c45ddbc01575242927' \
+  -H 'Host: canary.discordapp.com' \
+  -H 'Postman-Token: c81b70a1-6c0a-46ce-89f7-62c3cc27c0ae,586b4fe3-a4c8-4a9b-a016-a24df580472d' \
+  -H 'User-Agent: PostmanRuntime/7.20.1' \
+  -H 'authorization: YOUR-TOKEN-HERE' \
+  -H 'cache-control: no-cache' \
+  -d '{"name": "Fix Your Stuff Discord!",
+"visibility": 1
+}
+
+'
