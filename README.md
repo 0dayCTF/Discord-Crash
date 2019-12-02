@@ -22,3 +22,6 @@ Crash all Discord clients (desktop, mobile, browser, third party clients) when u
 </p>
 <br>
 <center>&nbsp; Thank you, Ryan Montgomery</center>
+<br>
+<br>
+<i>I will be adding some more methods in the future, check back for an update</i>
