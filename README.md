@@ -23,5 +23,8 @@ Crash all Discord clients (desktop, mobile, browser, third party clients,) when 
 <br>
 <center>&nbsp; <b>This method does not work on certain Android devices</b></center>
 <br>
+<h2>PoC</h2>
+<img src="https://media.giphy.com/media/J6JNu0bEx04MbZ63fB/giphy.gif">
+<br>
 <br>
 <i>I will be adding some more methods in the future, check back for an update</i>
