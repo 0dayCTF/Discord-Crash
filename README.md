@@ -21,7 +21,7 @@ Crash all Discord clients (desktop, mobile, browser, third party clients,) when 
 ∙ Using your program of choice, submit the DELETE request in <b>DiscordFix.txt</b>
 </p>
 <br>
-<center>&nbsp; This method does not work on certain Android devices</center>
+<center>&nbsp; <b>This method does not work on certain Android devices</b></center>
 <br>
 <br>
 <i>I will be adding some more methods in the future, check back for an update</i>
