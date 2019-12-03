@@ -21,6 +21,15 @@ Crash all Discord clients (desktop, mobile, browser, third party clients,) when 
 ∙ Using your program of choice, submit the DELETE request in <b>DiscordFix.txt</b>
 </p>
 <br>
+<center><h2>&nbsp;NodeJS - Credit Axthny </h2></center>
+ <p>
+  ∙ Navigate to Discord in the browser to find your authorization token
+  <br>
+  ∙  Change the token in token.txt to your own
+  <br>
+  ∙ Execute <b>crasher.bat</b>
+</p>
+<br>
 <center>&nbsp; <b>This method does not work on certain Android devices</b></center>
 <br>
 <h2>PoC</h2>
