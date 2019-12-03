@@ -2,7 +2,6 @@ curl -X DELETE \
   https://canary.discordapp.com/api/v6/users/@me/connections/contacts/SAMEINTEGERASORIGINAL \
   -H 'Cache-Control: no-cache' \
   -H 'Content-Type: application/json' \
-  -H 'Postman-Token: acd5afdc-7133-48ff-addb-9e903b9056a1' \
   -H 'authorization: YOUR-TOKEN-HERE' \
   -H 'cache-control: no-cache' \
   -d '{"name": "Fix Your Shit Discord!",
