@@ -2,7 +2,7 @@
 Crash all Discord clients (desktop, mobile, browser, third party clients,) when user clicks your profile
 <h2>Submitting the PUT request</h2>
 <p>
-  ∙ Navigate to Discord in the browser to find your authorization token
+  ∙ Navigate to Discord in the browser to find your authorization token <a href="https://discordhelp.net/discord-token">(How To Find Token)</a>
   <br>
   ∙  Change the token in the request to your own, and add some random integers after <i>/contacts/</i><b>HERE</b> 
   <br>
