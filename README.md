@@ -21,7 +21,7 @@ Crash all Discord clients (desktop, mobile, browser, third party clients,) when 
 ∙ Using your program of choice, submit the DELETE request in <b>DiscordFix.txt</b>
 </p>
 <br>
-<center><h2>&nbsp;NodeJS - <i>Credit <a href="https://github.com/anthony1895">Axthny</a></i> </h2></center>
+<center><h2>&nbsp;NodeJS</i> </h2></center>
  <p>
   ∙ Navigate to Discord in the browser to find your authorization token
   <br>
